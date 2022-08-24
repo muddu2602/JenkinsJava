@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("Hello OFSS");
 		System.out.println("Hello INDIA");
 		System.out.println("All are one");
+		System.out.println("New Change is detected");
 	}
 }
